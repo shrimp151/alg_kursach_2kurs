@@ -1,0 +1,3 @@
+Иванов;Иван;Windows;16GB;Intel i7
+Петров;Петр;Linux;8GB;AMD Ryzen
+Сидоров;Сергей;MacOS;32GB;Apple M1
